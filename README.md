@@ -33,6 +33,10 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
+
+
+
+
 If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
@@ -68,3 +72,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot (118)](https://user-images.githubusercontent.com/76200523/140986128-db21afa4-5b28-4403-986f-a87601d352ec.png)
+![Screenshot (119)](https://user-images.githubusercontent.com/76200523/140986137-75d39de4-a431-4d77-81a6-f219e9df748c.png)![Screenshot (120)](https://user-images.githubusercontent.com/76200523/140986170-f1b2f0be-10cb-4d7d-a60b-e279d7101cf2.png)
+![Screenshot (121)](https://user-images.githubusercontent.com/76200523/140986187-470a27d3-e727-4c17-bdf1-039321f39320.png)
+![Screenshot (122)](https://user-images.githubusercontent.com/76200523/140986196-42c89cc1-40fb-4d03-89bd-89e7d32155c2.png)
+![Screenshot (123)](https://user-images.githubusercontent.com/76200523/140986204-e03634af-97c2-4b6b-adfa-264150362360.png)
+
